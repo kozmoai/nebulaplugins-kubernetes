@@ -1,0 +1,20 @@
+{
+  "template": "https://github.com/kozmoai/nebula-collection-template",
+  "commit": "e11a3be195f24f60ed3f564dfccb40170ee7c3fa",
+  "context": {
+    "cookiecutter": {
+      "full_name": "Kozmoai",
+      "email": "help@nebula.io",
+      "github_organization": "kozmoai",
+      "collection_name": "nebulaplugins-kubernetes",
+      "collection_slug": "nebula_kubernetes",
+      "collection_short_description": "Nebula Collection Template contains all the boilerplate that you need to create a Nebula collection.",
+      "_copy_without_render": [
+        ".github/workflows/*.yml"
+      ],
+      "_template": "https://github.com/kozmoai/nebula-collection-template"
+    }
+  },
+  "directory": null,
+  "checkout": null
+}
