@@ -1,5 +1,5 @@
-site_name: nebulaplugins-kubernetes
-repo_url: https://github.com/kozmoai/nebulaplugins-kubernetes
+site_name: nebula-kubernetes
+repo_url: https://github.com/kozmoai/nebula-kubernetes
 theme:
   name: material
   custom_dir: docs/overrides

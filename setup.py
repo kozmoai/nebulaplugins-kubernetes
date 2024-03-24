@@ -12,13 +12,13 @@ with open("README.md") as readme_file:
     readme = readme_file.read()
 
 setup(
-    name="nebulaplugins-kubernetes",
+    name="nebula-kubernetes",
     description="Nebula integrations for interacting with Kubernetes.",
     license="Apache License 2.0",
     author="Kozmoai, Inc.",
     author_email="help@nebula.io",
     keywords="nebula",
-    url="https://github.com/kozmoai/nebulaplugins-kubernetes",
+    url="https://github.com/kozmoai/nebula-kubernetes",
     long_description=readme,
     long_description_content_type="text/markdown",
     version=versioneer.get_version(),

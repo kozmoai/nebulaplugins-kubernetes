@@ -104,7 +104,7 @@ with mkdocs_gen_files.open(examples_catalog_path, "w") as generated_file:
             """
             # Examples Catalog
 
-            Below is a list of examples for `nebulaplugins-kubernetes`.
+            Below is a list of examples for `nebula-kubernetes`.
             """
         )
     )

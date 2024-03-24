@@ -1,14 +1,14 @@
-# nebulaplugins-kubernetes
+# nebula-kubernetes
 
 <p align="center">
-    <a href="https://pypi.python.org/pypi/nebulaplugins-kubernetes/" alt="PyPI version">
-        <img alt="PyPI" src="https://img.shields.io/pypi/v/nebulaplugins-kubernetes?color=26272B&labelColor=090422"></a>
-    <a href="https://github.com/kozmoai/nebulaplugins-kubernetes/" alt="Stars">
-        <img src="https://img.shields.io/github/stars/kozmoai/nebulaplugins-kubernetes?color=26272B&labelColor=090422" /></a>
-    <a href="https://pypistats.org/packages/nebulaplugins-kubernetes/" alt="Downloads">
-        <img src="https://img.shields.io/pypi/dm/nebulaplugins-kubernetes?color=26272B&labelColor=090422" /></a>
-    <a href="https://github.com/kozmoai/nebulaplugins-kubernetes/pulse" alt="Activity">
-        <img src="https://img.shields.io/github/commit-activity/m/kozmoai/nebulaplugins-kubernetes?color=26272B&labelColor=090422" /></a>
+    <a href="https://pypi.python.org/pypi/nebula-kubernetes/" alt="PyPI version">
+        <img alt="PyPI" src="https://img.shields.io/pypi/v/nebula-kubernetes?color=26272B&labelColor=090422"></a>
+    <a href="https://github.com/kozmoai/nebula-kubernetes/" alt="Stars">
+        <img src="https://img.shields.io/github/stars/kozmoai/nebula-kubernetes?color=26272B&labelColor=090422" /></a>
+    <a href="https://pypistats.org/packages/nebula-kubernetes/" alt="Downloads">
+        <img src="https://img.shields.io/pypi/dm/nebula-kubernetes?color=26272B&labelColor=090422" /></a>
+    <a href="https://github.com/kozmoai/nebula-kubernetes/pulse" alt="Activity">
+        <img src="https://img.shields.io/github/commit-activity/m/kozmoai/nebula-kubernetes?color=26272B&labelColor=090422" /></a>
     <br>
     <a href="https://nebula-community.slack.com" alt="Slack">
         <img src="https://img.shields.io/badge/slack-join_community-red.svg?color=26272B&labelColor=090422&logo=slack" /></a>
@@ -18,7 +18,7 @@
 
 ## Welcome!
 
-`nebulaplugins-kubernetes` is a collection of Nebula tasks, flows, and blocks enabling orchestration, observation and management of Kubernetes resources.
+`nebula-kubernetes` is a collection of Nebula tasks, flows, and blocks enabling orchestration, observation and management of Kubernetes resources.
 
 Jump to [examples](#example-usage).
 
@@ -27,9 +27,9 @@ Jump to [examples](#example-usage).
 For more tips on how to use tasks and flows in a Collection, check out [Using Collections](https://docs.nebula.io/collections/usage/)!
 
 ### Installation
-Install `nebulaplugins-kubernetes` with `pip`:
+Install `nebula-kubernetes` with `pip`:
 ```bash
- pip install nebulaplugins-kubernetes
+ pip install nebula-kubernetes
  ```
 
 Requires an installation of Python 3.8+.
@@ -145,15 +145,15 @@ def kubernetes_orchestrator():
 
 ## Feedback
 
-If you encounter any bugs while using `nebulaplugins-kubernetes`, feel free to open an issue in the [nebulaplugins-kubernetes](https://github.com/kozmoai/nebulaplugins-kubernetes) repository.
+If you encounter any bugs while using `nebula-kubernetes`, feel free to open an issue in the [nebula-kubernetes](https://github.com/kozmoai/nebula-kubernetes) repository.
 
-If you have any questions or issues while using `nebulaplugins-kubernetes`, you can find help in either the [Nebula Discourse forum](https://discourse.nebula.io/) or the [Nebula Slack community](https://nebula.io/slack).
+If you have any questions or issues while using `nebula-kubernetes`, you can find help in either the [Nebula Discourse forum](https://discourse.nebula.io/) or the [Nebula Slack community](https://nebula.io/slack).
 
-Feel free to star or watch [`nebulaplugins-kubernetes`](https://github.com/kozmoai/nebulaplugins-kubernetes) for updates too!
+Feel free to star or watch [`nebula-kubernetes`](https://github.com/kozmoai/nebula-kubernetes) for updates too!
 
 ## Contributing
 
-If you'd like to help contribute to fix an issue or add a feature to `nebulaplugins-kubernetes`, please [propose changes through a pull request from a fork of the repository](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork).
+If you'd like to help contribute to fix an issue or add a feature to `nebula-kubernetes`, please [propose changes through a pull request from a fork of the repository](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork).
  
 Here are the steps:
  
@@ -165,7 +165,7 @@ Here are the steps:
 ```
 4. Make desired changes
 5. Add tests
-6. Insert an entry to [CHANGELOG.md](https://github.com/kozmoai/nebulaplugins-kubernetes/blob/main/CHANGELOG.md)
+6. Insert an entry to [CHANGELOG.md](https://github.com/kozmoai/nebula-kubernetes/blob/main/CHANGELOG.md)
 7. Install `pre-commit` to perform quality checks prior to commit:
 ```
  pre-commit install

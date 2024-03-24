@@ -6,7 +6,7 @@
       "full_name": "Kozmoai",
       "email": "help@nebula.io",
       "github_organization": "kozmoai",
-      "collection_name": "nebulaplugins-kubernetes",
+      "collection_name": "nebula-kubernetes",
       "collection_slug": "nebula_kubernetes",
       "collection_short_description": "Nebula Collection Template contains all the boilerplate that you need to create a Nebula collection.",
       "_copy_without_render": [

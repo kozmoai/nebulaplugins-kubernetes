@@ -541,7 +541,7 @@ class KubernetesWorker(BaseWorker):
         "Kubernetes cluster."
     )
     _display_name = "Kubernetes"
-    _documentation_url = "https://kozmoai.github.io/nebulaplugins-kubernetes/worker/"
+    _documentation_url = "https://kozmoai.github.io/nebula-kubernetes/worker/"
     _logo_url = "https://cdn.sanity.io/images/3ugk85nk/production/2d0b896006ad463b49c28aaac14f31e00e32cfab-250x250.png"  # noqa
 
     def __init__(self, *args, **kwargs):
